@@ -1,3 +1,5 @@
+#Store of healthy flavours
+
 juice=100
 print("Enter your age and money:")
 age=int(input())
